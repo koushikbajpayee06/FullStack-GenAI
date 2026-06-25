@@ -16,3 +16,4 @@ langchain-groq
 langchain-openrouter
 langchain-huggingface
 langchain-openai
+langchain-anthropic
